@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="clogo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="clogo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
