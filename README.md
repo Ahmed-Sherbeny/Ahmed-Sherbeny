@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 ###
-<h3 align="left">Frameworks/tools I use</h3>
+<h3 align="center">Frameworks/tools I use</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="clogo"  />
   <img width="12" />
