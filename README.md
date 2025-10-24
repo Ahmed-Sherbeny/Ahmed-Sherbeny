@@ -51,14 +51,10 @@
 
 ###
 
-<p align="center">
-<a href="https://linkedin.com/in/ahmed-m-el-sherbeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-m-el-sherbeny" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmedsherbeny123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedsherbeny123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmed_elsherbeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_elsherbeny" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmed_sherbeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_sherbeny" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmed_elsherbeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_elsherbeny" height="30" width="40" /></a>
-<a href="https://discord.gg/#0160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0160" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+<img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+
 
 ###
 
