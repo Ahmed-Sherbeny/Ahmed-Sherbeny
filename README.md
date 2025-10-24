@@ -61,14 +61,12 @@
 </p>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherbeny&show_icons=true&locale=en&layout=compact" alt="ahmed-sherbeny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-sherbeny&show_icons=true&locale=en" alt="ahmed-sherbeny" /></p>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmed-Sherbeny&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ahmed-Sherbeny&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherbeny&show_icons=true&locale=en&layout=compact" alt="ahmed-sherbeny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-sherbeny&show_icons=true&locale=en" alt="ahmed-sherbeny" /></p>
+
