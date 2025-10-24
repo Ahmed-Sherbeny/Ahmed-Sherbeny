@@ -1,4 +1,18 @@
-<h1 align="center">Welcome to my profile!</h1>
+<div align="center">
+  <div style="position:relative; display:inline-block;">
+    <img src="https://w.wallhaven.cc/full/7j/wallhaven-7jpxgv.png" alt="banner" height="200">
+    <span style="
+      position:absolute; left:50%; top:50%;
+      transform:translate(-50%,-50%);
+      font:700 28px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:#fff; text-align:center;
+      padding:.35em .75em; border-radius:10px;
+      background:rgba(0,0,0,.35); text-shadow:0 2px 8px rgba(0,0,0,.5);
+    ">
+      Welcome to my profile!
+    </span>
+  </div>
+</div>
 
 ###
 <h3 align="center">Frameworks/tools I use:</h3>
