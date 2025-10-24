@@ -73,20 +73,14 @@
 </div>
 
 ###
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sherbeny&show_icons=true&locale=en&theme=radical"
-           alt="GitHub Stats"
-           height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherbeny&show_icons=true&locale=en&layout=compact&theme=radical"
-           alt="Top Languages"
-           height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sherbeny&show_icons=true&locale=en&theme=radical"
+       alt="GitHub Stats"
+       height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherbeny&show_icons=true&locale=en&layout=compact&theme=radical"
+       alt="Top Languages"
+       height="165" />
+</p>
 
 <h1 align="center"></h1>
 <div>
