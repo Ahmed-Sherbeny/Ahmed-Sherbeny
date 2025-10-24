@@ -76,7 +76,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sherbeny&show_icons=true&locale=en&theme=radical"
        alt="GitHub Stats"
-       height="145" />
+       height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherbeny&show_icons=true&locale=en&layout=compact&theme=radical"
        alt="Top Languages"
        height="165" />
